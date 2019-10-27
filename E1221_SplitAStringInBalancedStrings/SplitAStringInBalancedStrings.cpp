@@ -50,6 +50,7 @@ public:
 	}
 };
 
+
 int main() {
 
 	string b_s;
@@ -59,6 +60,5 @@ int main() {
 	Solution stringSplit;
 	cout << "The maximum amount of balanced string is " << stringSplit.balancedStringSplit(b_s);
 	
-
 	return 0;
 }
